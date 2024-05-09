@@ -1,7 +1,7 @@
 # import tkinter
 from tkinter import *
 #import class from class file
-from Ngoc_Nguyen_final_project_CLASS import Item, FruitVegetable, Seafood, Dairy, Poultry, SmartCart
+from Instant_Cart_file import Item, FruitVegetable, Seafood, Dairy, Poultry, SmartCart
 #import GUI Module
 from functools import partial
 import random, string #used in random receipt no function
